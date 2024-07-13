@@ -35,7 +35,9 @@ Here are some simple tools and services that can help protect your online privac
   Google Drive if it wasn't creepy.
 
 - **Degoogle Script:**
-  Helps remove Google services from your devices.
+  - Helps remove Google services from your devices.
+  - Google is known for being really privacy-invasive
+  - and almost all of their apps can be easily replaced through F-Droid alternatives.
 
 1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
@@ -189,7 +191,3 @@ adb uninstall --user 0 com.google.android.apps.youtube.creator
 adb uninstall --user 0 com.google.android.apps.youtube.unplugged
 adb uninstall --user 0 com.google.android.youtube.tvunplugged
 ```
-
-Run this with ADB installed on your computer, USB debugging enabled on your phone, & the phone plugged into your computer to remove all Google apps. Should be perfectly safe since Google apps tend not to be necessary.
-
-Make sure you install F-Droid before doing this, as you will obviously be removing the Play Store. 
