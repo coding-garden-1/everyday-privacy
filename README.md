@@ -36,8 +36,9 @@ Here are some simple tools and services that can help protect your online privac
 
 - **Degoogle Script:**
   - Removes most Google bloatware from your devices.
-  - Google is known for being really privacy-invasive, wasting most of your device's storage
-  - and almost all of their apps can be easily replaced through F-Droid alternatives.
+  - Google is known for being really privacy-invasive
+  - Google wastes most of your device's storage
+  - Almost all Google apps can be easily replaced with F-Droid alternatives
   - Bonus: this makes old phones run much faster!
 
 1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
