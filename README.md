@@ -35,9 +35,10 @@ Here are some simple tools and services that can help protect your online privac
   Google Drive if it wasn't creepy.
 
 - **Degoogle Script:**
-  - Helps remove Google services from your devices.
-  - Google is known for being really privacy-invasive
+  - Removes most Google bloatware from your devices.
+  - Google is known for being really privacy-invasive, wasting most of your device's storage
   - and almost all of their apps can be easily replaced through F-Droid alternatives.
+  - Bonus: this makes old phones run much faster!
 
 1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
