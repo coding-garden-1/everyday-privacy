@@ -14,7 +14,7 @@ Here are some simple tools and services that can help protect your online privac
 - **[Clipious:](https://f-droid.org/en/packages/com.github.lamarios.clipious/)**
   - YouTube client that doesn't track you. Once downloaded go to settings > add server > click + on any of them to get started.
 
-- **[VLC on F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player on F-Droid](https://f-droid.org/en/packages/org.courville.nova/)**
+- **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player](https://f-droid.org/en/packages/org.courville.nova/)**
   - Really good media players.
 
 - **[ProtonVPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)**
@@ -25,18 +25,19 @@ Here are some simple tools and services that can help protect your online privac
 - **Debian:**
   Open source Linux. Better than Ubuntu. 
 
-- **Proton Mail:**
+- **[Proton Mail](https://account.proton.me/mail)**
   Gmail if it wasn't creepy.
 
-- **Proton Drive:**
+- **[Proton Drive](https://proton.me/drive)**
   Google Drive if it wasn't creepy.
 
-  - **Degoogle Script:**
+- **Degoogle Script:**
   Helps remove Google services from your devices.
+
 1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
-2. Enable USB Debugging
+2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
 3. Plug your phone into your laptop and hit "allow usb debugging"
-4. Paste this
+4. Paste this into a terminal 
 ```
 adb uninstall --user 0 com.google.android.apps.accessibility.auditor
 adb uninstall --user 0 com.google.android.apps.accessibility.maui.actionblocks
