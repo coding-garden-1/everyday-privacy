@@ -9,10 +9,13 @@ Here are some simple tools and services that can help protect your online privac
 ## [Tools and Services:](#)
 
 - **[F-Droid:](https://f-droid.org/en/)**
-  - An open-source, privacy-loving Play Store. Use this exclusively so your app installation data isn't tracked and sold by Google.
+  - An open-source, privacy-loving Play Store.
+  - Use this exclusively so your app installation data isn't tracked and sold by Google.
 
 - **[Clipious:](https://f-droid.org/en/packages/com.github.lamarios.clipious/)**
-  - YouTube client that doesn't track you. Once you're in the app, go to settings > add server > click + on any of the servers listed. Then search for videos and start watching.
+  - YouTube client that doesn't track you.
+  - Once you're in the app, go to settings > add server > click + on any of the servers listed.
+  - Then search for videos and start watching.
 
 - **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player](https://f-droid.org/en/packages/org.courville.nova/)**
   - Really good media players.
