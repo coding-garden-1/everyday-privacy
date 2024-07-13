@@ -21,7 +21,7 @@ Here are some simple tools and services that can help protect your online privac
   - Then search for videos and start watching.
 
 - **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player](https://f-droid.org/en/packages/org.courville.nova/)**
-  - Really good media players.
+  - Really good MP3/MP4 players.
 
 - **[ProtonVPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)**
   - Hide your internet traffic from your creepy, data-selling ISP.
