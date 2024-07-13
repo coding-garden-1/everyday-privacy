@@ -1,6 +1,11 @@
 ### [everyday-privacy](#)
 
 **How to have privacy these days :)**
+<details>
+  <summary>Click to expand!</summary>
+  
+  This is the content that will be hidden by default until expanded.
+</details>
 
 ## [Introduction:](#)
 
