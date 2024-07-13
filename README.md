@@ -1,42 +1,42 @@
-# everyday-privacy
+### [everyday-privacy](#)
 
 **How to have privacy these days :)**
 
-## Introduction:
+## [Introduction:](#)
 
-In today's digital world, it's important to focus on everyday privacy. Here are some simple tools and services that can help protect your online privacy.
+Here are some simple tools and services that can help protect your online privacy.
 
-## Tools and Services:
+## [Tools and Services:](#)
 
+- **[F-Droid:](https://f-droid.org/en/)**
+  - An open-source, privacy-loving Play Store. Use this exclusively so your app installation data isn't tracked and sold by Google.
 
+- **[Clipious:](https://f-droid.org/en/packages/com.github.lamarios.clipious/)**
+  - YouTube client that doesn't track you. Once downloaded go to settings > add server > click + on any of them to get started.
 
-- **F-Droid:**
-  An open source, privacy-loving Play Store. Use this exclusively so your app installation data isn't tracked and sold by Google.
+- **[VLC on F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player on F-Droid](https://f-droid.org/en/packages/org.courville.nova/)**
+  - Really good media players.
 
-- **Clipious:**
-  YouTube client that doesn't track you. Once downloaded go to settings > add server > click + on any of them to get started.
+- **[ProtonVPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)**
+  - Hide your internet traffic from your creepy, data-selling ISP.
 
-- **VLC or NOVA Player:**
-  Really good media players. 
-  
-- **ProtonVPN:**
-  Hide your internet traffic from your creepy, data-selling ISP.
-  
-- **Cromite:**
-  Chrome w/o tracking
+- **[Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)**
 
 - **Debian:**
   Open source Linux. Better than Ubuntu. 
-  
+
 - **Proton Mail:**
   Gmail if it wasn't creepy.
-  
+
 - **Proton Drive:**
   Google Drive if it wasn't creepy.
 
   - **Degoogle Script:**
   Helps remove Google services from your devices.
-
+1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+2. Enable USB Debugging
+3. Plug your phone into your laptop and hit "allow usb debugging"
+4. Paste this
 ```
 adb uninstall --user 0 com.google.android.apps.accessibility.auditor
 adb uninstall --user 0 com.google.android.apps.accessibility.maui.actionblocks
