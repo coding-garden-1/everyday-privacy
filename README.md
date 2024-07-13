@@ -11,8 +11,8 @@ In today's digital world, it's important to focus on everyday privacy. Here are 
 - **Degoogle Script:**
   Helps remove Google services from your devices.
 
-  ```
-  adb uninstall --user 0 com.google.android.apps.accessibility.auditor
+```
+adb uninstall --user 0 com.google.android.apps.accessibility.auditor
 adb uninstall --user 0 com.google.android.apps.accessibility.maui.actionblocks
 adb uninstall --user 0 com.google.android.marvin.talkback
 adb uninstall --user 0 com.google.android.projection.gearhead
