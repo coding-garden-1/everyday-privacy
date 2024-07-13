@@ -1,11 +1,6 @@
 ### [everyday-privacy](#)
 
 **How to have privacy these days :)**
-<details>
-  <summary>Click to expand!</summary>
-  
-  This is the content that will be hidden by default until expanded.
-</details>
 
 ## [Introduction:](#)
 
@@ -45,12 +40,17 @@ Here are some simple tools and services that can help protect your online privac
   - Almost all Google apps can be easily replaced with F-Droid alternatives
   - Bonus: this makes old phones run much faster!
 
+<details>
+  <summary>Instructions</summary>
+  
+
   Instructions:
   
   1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
   2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
   3. Plug your phone into your laptop and hit "allow usb debugging"
-  4. Paste this into a terminal 
+  4. Paste this into a terminal
+
   ```
   adb uninstall --user 0 com.google.android.apps.accessibility.auditor
   adb uninstall --user 0 com.google.android.apps.accessibility.maui.actionblocks
@@ -199,7 +199,8 @@ Here are some simple tools and services that can help protect your online privac
   adb uninstall --user 0 com.google.android.apps.youtube.unplugged
   adb uninstall --user 0 com.google.android.youtube.tvunplugged
   ```
-
+  
+  </details>
 
   **Computer**
   
