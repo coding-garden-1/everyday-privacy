@@ -35,13 +35,13 @@ Here are some simple tools and services that can help protect your online privac
   - Google Drive if it wasn't creepy.
 
 - **Degoogle Script:**
-   - Removes most Google bloatware from your devices.
-   - Google is known for being really privacy-invasive
-   - Google wastes most of your device's storage
-   - Almost all Google apps can be easily replaced with F-Droid alternatives
-   - Bonus: this makes old phones run much faster!
+  - Removes most Google bloatware from your devices.
+  - Google is known for being really privacy-invasive
+  - Google wastes most of your device's storage
+  - Almost all Google apps can be easily replaced with F-Droid alternatives
+  - Bonus: this makes old phones run much faster!
     
-    <details>
+  <details>
    
       <summary>Degoogling Instructions</summary>
      
