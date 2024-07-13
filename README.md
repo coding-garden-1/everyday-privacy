@@ -43,7 +43,7 @@ Here are some simple tools and services that can help protect your online privac
     
   <details>
    
-      <summary>Degoogling Instructions</summary>
+   <summary>Degoogling Instructions</summary>
      
       
       1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
@@ -200,7 +200,7 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.youtube.tvunplugged
       ```
      
-     </details>
+  </details>
 
   **Computer**
   
