@@ -26,7 +26,7 @@ In today's digital world, it's important to focus on everyday privacy. Here are 
   Chrome w/o tracking
 
 - **Debian:**
-  Most popular brand of open source Linux. Better than Ubuntu since parts of Ubuntu are closed source (which never happens by accident!)
+  Most popular brand of open source Linux. Better than Ubuntu. 
   
 - **Proton Mail:**
   Gmail if it wasn't creepy.
