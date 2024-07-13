@@ -209,7 +209,7 @@ Here are some simple tools and services that can help protect your online privac
   **Computer**
   
   - [**Debian**](https://www.wikihow.com/Install-Debian)
-    - Open source Linux. Better than Ubuntu. 
+    - Open source Linux. So much faster than Windows. 
 
   - [**VSCodium**](https://vscodium.com/#install)
      - Code editor that doesn't track your data
