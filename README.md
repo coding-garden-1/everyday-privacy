@@ -8,7 +8,33 @@ In today's digital world, it's important to focus on everyday privacy. Here are 
 
 ## Tools and Services:
 
-- **Degoogle Script:**
+
+
+- **F-Droid:**
+  An open source, privacy-loving Play Store. Use this exclusively so your app installation data isn't tracked and sold by Google.
+
+- **Clipious:**
+  YouTube client that doesn't track you. Once downloaded go to settings > add server > click + on any of them to get started.
+
+- **VLC or NOVA Player:**
+  Really good media players. 
+  
+- **ProtonVPN:**
+  Hide your internet traffic from your creepy, data-selling ISP.
+  
+- **Cromite:**
+  Chrome w/o tracking
+
+- **Debian:**
+  Most popular brand of open source Linux. Better than Ubuntu since parts of Ubuntu are closed source (which never happens by accident!)
+  
+- **Proton Mail:**
+  Gmail if it wasn't creepy.
+  
+- **Proton Drive:**
+  Google Drive if it wasn't creepy.
+
+  - **Degoogle Script:**
   Helps remove Google services from your devices.
 
 ```
@@ -163,27 +189,3 @@ adb uninstall --user 0 com.google.android.youtube.tvunplugged
 Run this with ADB installed on your computer, USB debugging enabled on your phone, & the phone plugged into your computer to remove all Google apps. Should be perfectly safe since Google apps tend not to be necessary.
 
 Make sure you install F-Droid before doing this, as you will obviously be removing the Play Store. 
-
-- **F-Droid:**
-  An open source, privacy-loving Play Store. Use this exclusively so your app installation data isn't tracked and sold by Google.
-
-- **Clipious:**
-  YouTube client that doesn't track you. Once downloaded go to settings > add server > click + on any of them to get started.
-
-- **VLC or NOVA Player:**
-  Really good media players. 
-  
-- **ProtonVPN:**
-  Hide your internet traffic from your creepy, data-selling ISP.
-  
-- **Cromite:**
-  Chrome w/o tracking
-
-- **Debian:**
-  Most popular brand of open source Linux. Better than Ubuntu since parts of Ubuntu are closed source (which never happens by accident!)
-  
-- **Proton Mail:**
-  Gmail if it wasn't creepy.
-  
-- **Proton Drive:**
-  Google Drive if it wasn't creepy.
