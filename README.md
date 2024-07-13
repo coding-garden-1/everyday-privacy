@@ -2,6 +2,10 @@
 
 **How to have privacy these days :)**
 
+### [Why privacy?](#)
+
+Privacy is important because advertisers' sole job is to learn how to manipulate your behavior. They want you to spend more on stuff you don't need, and will do anything to get you spending. When you use apps that sell your data, you provide advertisers with the information they need to make advertisement algorithms that specifically work on you. It's creepy and wrong!!
+
 ## [Introduction:](#)
 
 Here are some simple tools and services that can help protect your online privacy.
