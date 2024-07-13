@@ -46,8 +46,8 @@ Here are some simple tools and services that can help protect your online privac
    <summary>Degoogling Instructions</summary>
      
       
-      1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
-      2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
+      1. <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">Install ADB on your laptop</a>
+      2. <a href="https://developer.android.com/studio/debug/dev-options">Enable USB Debugging</a>
       3. Plug your phone into your laptop and hit "allow usb debugging"
       4. Paste this into a terminal
     
