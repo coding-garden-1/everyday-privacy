@@ -28,10 +28,10 @@ Here are some simple tools and services that can help protect your online privac
 - **[Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)**
 
 - **[Proton Mail](https://account.proton.me/mail)**
-  Gmail if it wasn't creepy.
+  - Gmail if it wasn't creepy.
 
 - **[Proton Drive](https://proton.me/drive)**
-  Google Drive if it wasn't creepy.
+  - Google Drive if it wasn't creepy.
 
 - **Degoogle Script:**
   - Removes most Google bloatware from your devices.
