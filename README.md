@@ -34,22 +34,22 @@ Here are some simple tools and services that can help protect your online privac
 - **[Proton Drive](https://proton.me/drive)**
   - Google Drive if it wasn't creepy.
 
-
- 
- <details>
   - **Degoogle Script:**
   - Removes most Google bloatware from your devices.
   - Google is known for being really privacy-invasive
   - Google wastes most of your device's storage
   - Almost all Google apps can be easily replaced with F-Droid alternatives
   - Bonus: this makes old phones run much faster!
-   <summary>Degoogling Instructions</summary>
-  
+    
+    <details>
    
-   1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
-   2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
-   3. Plug your phone into your laptop and hit "allow usb debugging"
-   4. Paste this into a terminal
+      <summary>Degoogling Instructions</summary>
+     
+      
+      1. [Install ADB on your laptop](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+      2. [Enable USB Debugging](https://developer.android.com/studio/debug/dev-options)
+      3. Plug your phone into your laptop and hit "allow usb debugging"
+      4. Paste this into a terminal
  
    ```
    adb uninstall --user 0 com.google.android.apps.accessibility.auditor
