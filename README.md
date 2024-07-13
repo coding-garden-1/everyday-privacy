@@ -16,6 +16,7 @@ Here are some simple tools and services that can help protect your online privac
 
 - **[Clipious:](https://f-droid.org/en/packages/com.github.lamarios.clipious/)**
   - YouTube client that doesn't track you.
+  - Removes ads, clickbait titles & thumbnails, sponsors, filler sections
   - Once you're in the app, go to settings > add server > click + on any of the servers listed.
   - Then search for videos and start watching.
 
