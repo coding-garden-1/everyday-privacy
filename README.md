@@ -221,10 +221,11 @@ Here are some simple tools and services that can help protect your online privac
       - Pretend to swap devices each time you visit a website
   -   [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
       - Privacy through website isolation
-      - <details> <summary>Installation instructions</summary> 
-       Download the .deb
-       Paste this into a terminal
-      ```sudo dpkg -i file.deb``` </details>
+      - <details> 
+       <summary>Installation instructions</summary> 
+         Download the .deb
+         Paste this into a terminal: sudo dpkg -i file.deb
+      </details>
    - NoFingerprint
    - CanvasJS Blocker
    
