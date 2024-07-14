@@ -40,14 +40,18 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
 - **Degoogle Script:**
   - Removes most Google bloatware from your devices.
     <details> 
-   <summary>Reasons to remove Google bloatware </summary>
-    Google is known for being really privacy-invasive
-    Google wastes most of your device's storage
-    Almost all Google apps can be easily replaced with F-Droid alternatives
-    
-    Bonus: this makes old phones run much faster!
+      <summary>Reasons to remove Google bloatware </summary>
+      
+      Google is known for being really privacy-invasive.
+      
+      Google wastes most of your device's storage.
+      
+      Almost all Google apps can be easily replaced with F-Droid alternatives.
+      
+      Bonus: this makes old phones run much faster!
+      
     </details>
-  <details>
+
    
    <summary>Degoogling Instructions</summary>
      
