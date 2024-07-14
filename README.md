@@ -220,13 +220,13 @@ Here are some simple tools and services that can help protect your online privac
     
     - [**Random User Agent Switcher**](https://random-user-agent.com/)
       - Pretend to swap devices each time you visit a website
-  - [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
-    - Privacy through website isolation
-    - <details> 
-      <summary>Installation instructions</summary> 
-         - Download the .deb and paste this into a terminal (sudo dpkg -i filename.deb)
-     </details>
-  - NoFingerprint
-  - CanvasJS Blocker
-  
+    - [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
+      - Privacy through website isolation
+      - <details> 
+        <summary>Installation instructions</summary> 
+           Download the .deb and paste the following command into a terminal: sudo dpkg -i filename.deb
+       </details>
+    - NoFingerprint
+    - CanvasJS Blocker
+    
 
