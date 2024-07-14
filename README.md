@@ -210,19 +210,22 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
   -  [**Degoogled Chromium**]()
        - Open source, non-tracking Chrome
 
-   ### [**Advanced**](#)
-  
-  - For people who care even more about privacy
-    
-    - [**Random User Agent Switcher**](https://random-user-agent.com/)
-      - Pretend to swap devices each time you visit a website
-    - [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
-      - Privacy through website isolation
-      - <details> 
-        <summary>Installation instructions</summary> 
-           Download the .deb and paste the following command into a terminal: sudo dpkg -i filename.deb
-       </details>
-    - NoFingerprint
-    - CanvasJS Blocker
-    
+ ### [**Advanced**](#)
 
+- For people who care even more about privacy
+  
+  - [**Random User Agent Switcher**](https://random-user-agent.com/)
+    - Pretend to swap devices each time you visit a website
+  
+  - [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
+    - Privacy through website isolation
+    - <details>
+      <summary>Installation instructions</summary>
+      Download the .deb and paste the following command into a terminal: sudo dpkg -i filename.deb
+    </details>
+  
+  - NoFingerprint
+  - CanvasJS Blocker
+  
+      
+  
