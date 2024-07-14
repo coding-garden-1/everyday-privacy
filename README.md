@@ -8,10 +8,6 @@ Privacy is important because advertisers' sole job is to learn how to manipulate
 
 It only takes installing an app to stop them, so why not reclaim your privacy, freedom, & general right to not be treated as a product?
 
-## [Introduction:](#)
-
-Here are some simple tools and services that can help protect your online privacy.
-
 ## [Everyday Internet Usage:](#)
 
   **Android**
