@@ -55,7 +55,9 @@ Here are some simple tools and services that can help protect your online privac
   1. <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">Install ADB on your laptop</a>
   2. <a href="https://developer.android.com/studio/debug/dev-options">Enable USB Debugging</a>
   3. Plug your phone into your laptop and hit "allow usb debugging"
-  4. Paste this into a terminal
+  4. Make sure you have F-Droid, AnySoftKeyboard, Clipious, and Privacy Browser installed before you do this
+  5. Paste this into a terminal
+  
     
       ```
       adb uninstall --user 0 com.google.android.apps.accessibility.auditor
@@ -147,9 +149,7 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.wearable.watchface.rwf
       adb uninstall --user 0 com.google.android.wearable.fitbit.mcu.data
       adb uninstall --user 0 com.google.android.apps.books
-      adb uninstall --user 0 com.google.android.apps.playconsole
       adb uninstall --user 0 com.google.android.play.games
-      adb uninstall --user 0 com.google.android.gms
       adb uninstall --user 0 com.google.ar.core
       adb uninstall --user 0 com.google.android.apps.podcasts
       adb uninstall --user 0 com.google.android.apps.docs.editors.sheets
@@ -171,10 +171,7 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.apps.navlite
       adb uninstall --user 0 com.google.android.apps.onlineinsightspanel
       adb uninstall --user 0 com.google.android.apps.safetyhub
-      adb uninstall --user 0 com.google.android.dialer
       adb uninstall --user 0 com.google.android.apps.photos.scanner
-      adb uninstall --user 0 com.google.android.GoogleCamera
-      adb uninstall --user 0 com.google.android.apps.camera.services
       adb uninstall --user 0 com.google.android.apps.pixel.health
       adb uninstall --user 0 com.google.android.wearable.pixel.pdms
       adb uninstall --user 0 com.google.android.apps.baselinestudy
