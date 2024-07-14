@@ -42,6 +42,7 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
     <details> 
       <summary>Reasons to remove Google bloatware </summary>
       
+      
       Google is known for being really privacy-invasive.
       
       Google wastes most of your device's storage.
