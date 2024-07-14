@@ -224,9 +224,7 @@ Here are some simple tools and services that can help protect your online privac
     - Privacy through website isolation
     - <details> 
       <summary>Installation instructions</summary> 
-         - Download the .deb
-         - Paste this into a terminal: 
-         - sudo dpkg -i filename.deb
+         - Download the .deb and paste this into a terminal (sudo dpkg -i filename.deb)
      </details>
   - NoFingerprint
   - CanvasJS Blocker
