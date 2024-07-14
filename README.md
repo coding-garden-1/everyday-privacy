@@ -213,8 +213,6 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
 
   -  [**LibreWolf**](https://librewolf.net/)
        - Open source Firefox
-  -  [**Degoogled Chromium**]()
-       - Open source, non-tracking Chrome
 
  ## [Advanced](#)
 
