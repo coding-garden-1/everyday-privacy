@@ -12,7 +12,7 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
 
 Here are some simple tools and services that can help protect your online privacy.
 
-## [Tools and Services:](#)
+## [Everyday Internet Usage:](#)
 
   **Android**
   
@@ -35,16 +35,19 @@ Here are some simple tools and services that can help protect your online privac
 - **[Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/)**
 
 - **[Proton Mail](https://account.proton.me/mail)**
-  - Gmail if it wasn't creepy.
-
+    - Swiss privacy law protected emails
 - **[Proton Drive](https://proton.me/drive)**
-  - Google Drive if it wasn't creepy.
+    - Swiss privacy law protected file storage
 
+ - **[OsMand](https://f-droid.org/en/packages/net.osmand.plus/)**
+    - Private, offline Google Maps
+ 
 - **Degoogle Script:**
   - Removes most Google bloatware from your devices.
   - Google is known for being really privacy-invasive
   - Google wastes most of your device's storage
   - Almost all Google apps can be easily replaced with F-Droid alternatives
+    
   - Bonus: this makes old phones run much faster!
     
   <details>
@@ -64,12 +67,7 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.apps.accessibility.maui.actionblocks
       adb uninstall --user 0 com.google.android.marvin.talkback
       adb uninstall --user 0 com.google.android.projection.gearhead
-      adb uninstall --user 0 com.google.android.embedded.projection
       adb uninstall --user 0 com.google.android.apps.work.clouddpc
-      adb uninstall --user 0 com.google.android.webview
-      adb uninstall --user 0 com.google.android.webview.beta
-      adb uninstall --user 0 com.google.android.webview.canary
-      adb uninstall --user 0 com.google.android.webview.dev
       adb uninstall --user 0 com.google.android.tvrecommendations
       adb uninstall --user 0 com.google.android.tvlauncher
       adb uninstall --user 0 com.google.android.leanbacklauncher
@@ -79,20 +77,16 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.apps.blogger
       adb uninstall --user 0 com.google.android.calculator
       adb uninstall --user 0 com.google.samples.apps.cardboarddemo
-      adb uninstall --user 0 com.google.android.ims
       adb uninstall --user 0 com.chrome.beta
       adb uninstall --user 0 com.chrome.canary
       adb uninstall --user 0 com.chrome.dev
       adb uninstall --user 0 com.google.chromeremotedesktop
       adb uninstall --user 0 com.google.android.apps.mediashell
-      adb uninstall --user 0 com.google.android.deskclock
       adb uninstall --user 0 com.androidx.compose.material.catalog
-      adb uninstall --user 0 com.google.android.contacts
       adb uninstall --user 0 com.google.android.apps.audition
       adb uninstall --user 0 com.google.android.apps.village.boond
       adb uninstall --user 0 com.google.android.apps.restore
       adb uninstall --user 0 com.google.android.apps.pixelmigrate
-      adb uninstall --user 0 com.google.android.apps.wifisetup.app
       adb uninstall --user 0 com.google.android.apps.wellbeing
       adb uninstall --user 0 com.google.android.apps.camera.poseidon
       adb uninstall --user 0 com.google.android.apps.kids.familylinkhelper
@@ -182,7 +176,6 @@ Here are some simple tools and services that can help protect your online privac
       adb uninstall --user 0 com.google.android.apps.recorder
       adb uninstall --user 0 com.google.android.apps.userpanel
       adb uninstall --user 0 com.google.android.apps.security.securityhub
-      adb uninstall --user 0 com.google.android.euicc
       adb uninstall --user 0 com.niksoftware.snapseed
       adb uninstall --user 0 com.google.socratic
       adb uninstall --user 0 com.google.android.accessibility.soundamplifier
@@ -212,3 +205,27 @@ Here are some simple tools and services that can help protect your online privac
 
   - [**VSCodium**](https://vscodium.com/#install)
      - Code editor that doesn't track your data
+   
+  - [**UBlock Origin**](https://ublockorigin.com/)
+      - No ads or trackers!
+
+  -  [**LibreWolf**](https://librewolf.net/)
+       - Open source Firefox
+  -  [**Degoogled Chromium**]()
+       - Open source, non-tracking Chrome
+
+   ### [**Advanced**](#)
+  
+      - For people who care even more about privacy
+    - [**Random User Agent Switcher**](https://random-user-agent.com/)
+      - Pretend to swap devices each time you visit a website
+  -   [ICE Single Site Browsers](https://mxrepo.com/mx/testrepo/pool/test/i/ice/)
+      - Privacy through website isolation
+      - <details> <summary>Installation instructions</summary> 
+       Download the .deb
+       Paste this into a terminal
+      ```sudo dpkg -i file.deb``` </details>
+   - NoFingerprint
+   - CanvasJS Blocker
+   
+
