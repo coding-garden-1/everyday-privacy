@@ -19,8 +19,7 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
 - **[Clipious:](https://f-droid.org/en/packages/com.github.lamarios.clipious/)**
   - YouTube client that doesn't track you.
   - Removes ads, clickbait titles & thumbnails, sponsors, filler sections
-  - <details> <summary>Instructions</summary>Once you're in the app, go to settings > add server > click + on any of the servers listed.
-  - Then search for videos and start watching. </details>
+  - <details> <summary>Instructions</summary>Once you're in the app, go to settings > add server > click + on any of the servers listed. Then search for videos and start watching. </details>
 
 - **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)** or **[NOVA Player](https://f-droid.org/en/packages/org.courville.nova/)**
   - Really good MP3/MP4 players.
@@ -211,7 +210,7 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
   -  [**Degoogled Chromium**]()
        - Open source, non-tracking Chrome
 
- ### [**Advanced**](#)
+ ## [Advanced](#)
 
 - For people who care even more about privacy
   
