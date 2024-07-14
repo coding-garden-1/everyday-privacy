@@ -52,7 +52,7 @@ It only takes installing an app to stop them, so why not reclaim your privacy, f
       Bonus: this makes old phones run much faster!
       
     </details>
-
+   <details>
    
    <summary>Degoogling Instructions</summary>
      
